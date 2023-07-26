@@ -40,9 +40,13 @@ input {
 h1 {
   margin-bottom: 40px;
   font-size: 50px;
-  
+  color: #a236ff;
 }
 
 p {
   font-size: 32px;
+  color: #a236ff;
+}
+button:hover {
+  opacity: 0.8;
 }

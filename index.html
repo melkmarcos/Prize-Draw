@@ -19,7 +19,7 @@
       crossorigin="anonymous"
     ></script>
     <link rel="stylesheet" href="./style.css" />
-
+    <script src="./script.js" defer></script>
     <title>Prize Draw</title>
   </head>
 
@@ -28,10 +28,10 @@
       <h1>Prize Draw</h1>
       <p>Sortear um Número</p>
       <div class="containe-input">
-        <input type="text" placeholder="Entre" />
-        <input type="text" placeholder="E" />
+        <input class="input-min" type="text" placeholder="Entre" />
+        <input class="input-max" type="text" placeholder="E" />
       </div>
-      <button type="button">Sortear</button>
+      <button onclick="generateNumber()">Sortear</button>
     </div>
   </body>
 </html>
