@@ -2,7 +2,7 @@
 
 Descrição do Projeto: 
 
-![Sorteio Fácil](assets/Captura de tela de 2023-07-27 21-35-12.png)
+<img src="/assets/Captura de tela de 2023-07-27 21-35-12.png">
 
 ## Funcionalidades
 
