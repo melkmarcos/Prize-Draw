@@ -1,2 +1,22 @@
-# Prize-Draw
-O projeto  é um site interativo desenvolvido com as tecnologias HTML, CSS e JavaScript, criado com o objetivo de proporcionar aos usuários uma experiência simples e divertida de sorteio de números. A ideia central é permitir que o usuário insira uma quantidade personalizada de números dentro de um intervalo definido, por exemplo, de 100 a 500, e em seguida, o site irá realizar o sorteio aleatório desses números.
+# Projeto "Prize Draw"
+
+Descrição do Projeto: 
+
+<img src="/assets/Captura de tela de 2023-07-27 21-35-12.png">
+
+## Funcionalidades
+
+- Interface Amigável
+- Entrada de Dados Personalizada
+- Validação dos Dados
+- Realização do Sorteio
+- Recomeçar o Sorteio
+- Design Responsivo
+- Estilo Personalizado
+
+## Objetivos
+
+- Proporcionar uma forma simples e prática para realizar sorteios personalizados de números dentro de um intervalo definido.
+- Oferecer uma experiência agradável ao usuário, tornando o processo de sorteio fácil de entender e utilizar.
+- Fomentar a interatividade e diversão dos usuários ao promover sorteios de maneira aleatória.
+
